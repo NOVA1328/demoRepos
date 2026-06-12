@@ -1,4 +1,6 @@
 inorder to connect to the github first genrate the ssh key and then add
  the ssh key to ssh agent and then cpy
 the ssh key to ssh agent then paste t
-he ssh key in the github account settings . 
+he ssh key in the github account settings .  
+
+adding some lines to test the connection of our repository is properly pushed to the github repository
